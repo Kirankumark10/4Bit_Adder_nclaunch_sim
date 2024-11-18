@@ -113,6 +113,7 @@ or
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 ### Fig 7: Nclaunch Window
+![Screenshot (112)](https://github.com/user-attachments/assets/396e33cd-8426-466a-9397-bd2abb733cfd)
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
@@ -132,6 +133,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
 ### Fig 8: Compiled database in worklib
+![Screenshot (114)](https://github.com/user-attachments/assets/c11f00ad-2bf7-43d4-a430-aa11167965d7)
 
 	After compilation it will come under worklib you can see in right side window
 
@@ -169,8 +171,10 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 ### Fig 10: Design Browser window for simulation
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+![Screenshot (116)](https://github.com/user-attachments/assets/ff5b167e-4ca9-4152-bf39-dd27a8eb59ff)
 
 ### Fig 12: Simulation Waveform Window
+![Screenshot (117)](https://github.com/user-attachments/assets/23ceeb30-1ee5-45e6-920f-541f6201cea2)
 
 ### Result:
 
